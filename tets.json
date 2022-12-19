@@ -21,7 +21,7 @@ paths:
         '200':
           description: No response was specified
       tags:
-        - LiMb@_XSS
+        - M0X0101_XSS_D
       operationId: findAccounts
       summary: Finds all accounts
   '/accounts/groupid/{id}':
