@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/omidxplimbo/public/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/omidxplimbo/public/main/file.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/omidxplimbo/public/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/omidxplimbo/public/main/file.yaml",
             "name": "Foo"
         }
     ]
